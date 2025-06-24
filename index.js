@@ -73,9 +73,7 @@ async function collectMetrics(uri, clusterInfo = {} ) {
                 dbMetrics.Version = serverStatus.version;
                 dbMetrics.UptimeSegundos = serverStatus.uptime;
                 dbMetrics.ConexionesActivas = serverStatus.connections.current;
-                dbMetrics.TipoDeReplica = serverStatus.repl
-                    ? (serverStatus.repl.myState === 1 ? "Primary" : serverStatus.repl.myState === 2 ? "Secondary" : "Otro")
-                    : "No Replica Set";
+                dbMetrics.clusterInfo = clusterInfo;
             } catch (e) {
                 dbMetrics.NombreServidor = "N/A";
                 dbMetrics.Version = "N/A";
