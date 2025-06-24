@@ -1,6 +1,6 @@
 # metrics-collector
 
-¡Claro! Aquí tienes el `README.md` completo en **un solo bloque**, sin interrupciones:
+
 
 ```markdown
 # 📊 Atlas Metrics Collector
