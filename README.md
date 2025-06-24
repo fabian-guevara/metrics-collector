@@ -45,14 +45,14 @@ ATLAS_CLIENT_ID=mdb_sa_id_...
 ATLAS_CLIENT_SECRET=mdb_sa_sk_...
 
 # ID del proyecto Atlas
-PROJECT_ID=660ad64bf3dbb4292f143a20
+PROJECT_ID=
 
 # Credenciales para acceder a los clusters
-DATABASE_USER=fabian
-DATABASE_PASSWORD=guevara
+DATABASE_USER=
+DATABASE_PASSWORD=
 
 # URI del cluster central donde se guardan las métricas
-MONGODB_URI=mongodb+srv://demo.lfvxb.mongodb.net/
+MONGODB_URI=m
 ````
 
 ---
