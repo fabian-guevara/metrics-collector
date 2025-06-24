@@ -21,9 +21,9 @@ Este proyecto permite recolectar métricas de todos los clusters MongoDB Atlas d
 
 ## 📁 Estructura del proyecto
 
-```
 
-.
+
+
 ├── .env                  # Variables sensibles
 ├── clusters.json         # Resultado de la API de Atlas
 ├── index.js              # Script Node.js que recolecta y guarda métricas
@@ -31,7 +31,7 @@ Este proyecto permite recolectar métricas de todos los clusters MongoDB Atlas d
 ├── package.json          # Configuración del proyecto Node.js
 └── README.md             # Este archivo
 
-````
+
 
 ---
 
