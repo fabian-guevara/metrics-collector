@@ -62,6 +62,7 @@ MONGODB_URI=m
 Para ejecutar todo el proceso de recolección de métricas:
 
 ```bash
+npm install
 npm run collect
 ```
 
