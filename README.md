@@ -147,5 +147,4 @@ MIT — Usa y modifica libremente.
 
 ```
 
-Pega esto tal cual en tu archivo `README.md` y ya lo tienes listo para documentar tu proyecto completo. ¿Quieres que también te genere un badge de GitHub Actions o algo para automatizar esto en CI/CD?
 ```
