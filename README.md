@@ -142,6 +142,8 @@ db.getCollectionNames().forEach(c => db[c].drop())
 ## 📃 Licencia
 
 MIT — Usa y modifica libremente.
+*Este script NO es un producto oficial de MongoDB y se recomienda utilizarlo con precaución. Sus resultados y efectos son responsabilidad de quien lo ejecuta.
+
 
 ```
 
