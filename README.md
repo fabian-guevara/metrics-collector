@@ -43,7 +43,7 @@ Crea un archivo `.env` en la raíz del proyecto con el siguiente contenido:
 # Credenciales de Atlas Service Account
 ATLAS_CLIENT_ID=mdb_sa_id_...
 ATLAS_CLIENT_SECRET=mdb_sa_sk_...
-
+# para obtenerlas visitar (https://www.mongodb.com/docs/atlas/api/service-accounts-overview/)
 # ID del proyecto Atlas
 PROJECT_ID=
 
